@@ -1,6 +1,6 @@
 # go-wishlist-api
 
-Simple API managing wishlists
+Simple API managing wishlist
 
 ## How to Use
 
